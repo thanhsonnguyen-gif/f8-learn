@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../MindX-WebF-59"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "f8-learn"
+	}
+}
